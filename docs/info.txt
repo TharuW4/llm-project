@@ -1,0 +1,93 @@
+GREEN PALACE HOTEL Information, Facilities and Policies
+
+
+1. ABOUT OUR HOTEL
+
+Green Palace Hotel provides comfortable accommodation for individuals, couples, and families. Our hotel offers three types of rooms: Single Rooms, Double Rooms, and Family Rooms. Guests can enjoy comfortable rooms, free Wi-Fi, free parking, and access to hotel facilities.
+
+
+2. ROOM TYPES AND FACILITIES
+
+Single Room
+- Suitable for one guest.
+- single bed.
+- Air conditioning.
+- bathroom.
+- Free Wi-Fi.
+- Television.
+
+Double Room
+- Suitable for two guests.
+- One double bed.
+- Air conditioning.
+- Private bathroom.
+- Free Wi-Fi.
+- Television.
+
+Family Room
+- Suitable for up to four guests.
+- Two double beds.
+- Air conditioning.
+- Private bathroom.
+- Free Wi-Fi.
+- Television.
+
+Room prices and current availability are provided by the hotel's booking system.
+
+
+3. HOTEL FACILITIES
+
+Wi-Fi
+- Free Wi-Fi is available for all hotel guests.
+- Wi-Fi access details are provided at check-in.
+
+Parking
+- Free parking is available for hotel guests.
+- Parking spaces are available on a first-come, first-served basis.
+
+Swimming Pool
+- The hotel has an outdoor swimming pool.
+- Opening hours are 7:00 AM to 7:00 PM.
+
+
+4. FOOD AND BREAKFAST
+
+- Breakfast is served daily from 7:00 AM to 10:00 AM.
+- Guests should contact reception for additional meal arrangements.
+
+
+5. HOTEL RULES AND POLICIES
+
+- Smoking is not allowed inside hotel rooms. Guests may smoke only in designated outdoor areas.
+- Pets are not allowed inside the hotel.
+- The number of guests must not exceed the room's maximum capacity.
+
+
+6. ROOM BOOKING INFORMATION
+
+- Guests can ask the AI assistant to check room availability for their selected date.
+- Guests can book an available room by providing their name, room number, number of guests, and booking date.
+- A room can only be booked if it is available for the requested date.
+- A room cannot have more than one booking on the same date.
+- The same room can be booked on different dates.
+
+
+7. BOOKING CANCELLATION
+
+- Guests can request booking cancellation through the AI assistant. 
+- Guests must provide their room number, name used for the reservation, and booking date.
+- Once a booking is successfully cancelled, the room becomes available again for that date.
+
+
+8. GUEST SERVICES
+
+- Guests can contact reception for special request and general hotel inquiries.
+- Rooms are cleaned daily.
+
+
+
+The AI assistant can provide information about hotel facilities, room types, hotel policies, and guest services.
+
+Current room availability, room prices, reservations, and booking cancellations are managed by the hotel's booking tools.
+
+If information is not available in the hotel guide, guests should contact hotel reception.
